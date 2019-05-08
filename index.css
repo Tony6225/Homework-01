@@ -1,0 +1,36 @@
+.body{
+    width:960px;
+    background-color:#a7a7a7;
+    color:#ff8800;
+
+    font-family: Tahoma, Helvetica, Sans-serif;
+    font-size:14px;
+    font-weight:normal;
+    line-height:1.5em;
+    margin:0;
+}
+
+.page-width{
+    width:75%;
+    margin:auto;
+}
+
+.top-bar{
+    background-color:#272727;
+    color: #ff8800;
+    padding-top:10px;
+    padding-right:15px;
+    padding-bottom:15px;
+    padding-left:15px;
+}
+
+.top-bar h1{
+    font-family:Tahoma;
+    font-style:italic;
+    text-transform:uppercase;
+}
+
+.nav-list{
+    color:#fff;
+}
+
