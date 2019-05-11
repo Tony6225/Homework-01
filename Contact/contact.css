@@ -1,0 +1,148 @@
+body{
+    background-image: url("white-waves.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+    font-family:Helvetica;
+}
+
+.container{
+    width:960px;
+    margin: 0 auto;
+    background-color:white;
+
+}
+
+header{
+    width: 100%;
+    height: 98px;
+    background: #fff;
+    clear: both;
+    box-shadow: 0px 2px 0px darkslategray;
+}
+
+.name-container{
+    width: 300px;
+    float: left;
+}
+
+.name{
+    color: #fff;
+    padding: 30px;
+    margin: 0;
+    background-color: darkslategray;
+}
+
+nav{
+    float: right;
+}
+
+nav ul{
+    margin: 0;
+    list-style: none;
+}
+
+nav li{
+    display: inline-block;
+    margin-left: 50px;
+    padding-top: 45px;
+}
+
+nav a{
+    font-family: helvetica;
+    font-weight: bold;
+    color: darkslategrey;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.box-1{
+    width:960px;
+    height: 560px;
+    color: darkslategray;
+    background-color: #fff;
+    border: 2px solid #eee;
+    clear: both;
+    margin: 50px auto;
+    overflow: hidden;
+}
+
+.contact{
+    padding-left: 30px;
+    padding-top: 20px;
+}
+
+hr {
+    display: block;
+    position: relative;
+    height: 1px;
+    border: 0;
+    border-top: 2px solid darkslategray;
+    margin: 30px;
+    padding: 0;
+}
+
+form{
+    margin: 30px;
+}
+
+form label{
+    display:block;
+}
+
+form input[type="text"]{
+    padding: 10px;
+    width: 869px;
+}
+
+form input[type="submit"]{
+    background-color: darkslategray;
+    color: #fff;
+    padding: 10px 15px;
+    border:none;
+}
+
+form textarea{
+    width: 885px;
+    height: 180px;
+}
+
+.form-group{
+    padding-bottom: 15px;
+}
+
+footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 80px;
+    background-color: darkslategray;
+    border-top: solid 5px #15a86b;
+    text-align: center;
+}
+
+footer p{
+    color: #fff;
+    padding-top: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3
